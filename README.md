@@ -1,3 +1,10 @@
+Make sure you have Python 3.x installed and the latest version of pip installed before running these steps.
+
+To contribute, please follow the guidelines process.
+
+Clone the repository using the following command
+git clone https://github.com/swamypotharaveni/expert-parakeet.git
+
 Create a virtual environment where all the required python packages will be installed
 
 # Use this on Windows
